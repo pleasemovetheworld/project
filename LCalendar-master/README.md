@@ -11,13 +11,13 @@ LCalendar v1.80移动端日期时间选择控件
 将样式文件引入到页面中：
 ```
 ...
-<link rel="stylesheet" href="LCalendar.css">
+<link rel="stylesheet" href="https://github.com/pleasemovetheworld/project/tree/master/LCalendar-master/src/css/LCalendar.css">
 ...
 ```
 同时引入js文件到页面中：
 ```
 ...
-<script src="LCalendar.js"></script>
+<script src="https://github.com/pleasemovetheworld/project/tree/master/LCalendar-master/src/js/LCalendar.js"></script>
 ...
 ```
 初始化插件：
